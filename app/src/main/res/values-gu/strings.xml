@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">બહુવિધ ભાષા ડેમો</string>
+    <string name="hello_world">હેલો વર્લ્ડ!</string>
+    <string name="translate">અનુવાદ</string>
+</resources>
